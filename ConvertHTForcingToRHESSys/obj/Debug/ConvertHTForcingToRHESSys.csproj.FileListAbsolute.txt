@@ -1,7 +1,0 @@
-W:\CODE\ConvertForcingToRHESSys\ConvertForcingToRHESSys\bin\Debug\ConvertForcingToRHESSys.exe.config
-W:\CODE\ConvertForcingToRHESSys\ConvertForcingToRHESSys\bin\Debug\ConvertForcingToRHESSys.exe
-W:\CODE\ConvertForcingToRHESSys\ConvertForcingToRHESSys\bin\Debug\ConvertForcingToRHESSys.pdb
-W:\CODE\ConvertForcingToRHESSys\ConvertForcingToRHESSys\obj\Debug\ConvertForcingToRHESSys.exe
-W:\CODE\ConvertForcingToRHESSys\ConvertForcingToRHESSys\obj\Debug\ConvertForcingToRHESSys.pdb
-W:\CODE\ConvertForcingToRHESSys\ConvertForcingToRHESSys\bin\Debug\ConvertHTForcingToRHESSys.exe.config
-W:\CODE\ConvertHTForcingToRHESSys\ConvertHTForcingToRHESSys\bin\Debug\ConvertHTForcingToRHESSys.exe.config
