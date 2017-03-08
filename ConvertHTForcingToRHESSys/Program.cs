@@ -276,7 +276,7 @@ namespace ConvertHTForcingToRHESSys
                         file.WriteLine(wind);
                 }
 
-                var Kdown_direct_results = from p in results select p.wind;
+                var Kdown_direct_results = from p in results select p.Kdown_direct;
                 out_fname = output_directory + "\\" + project_name + ".Kdown_direct";
                 using (System.IO.StreamWriter file = new System.IO.StreamWriter(out_fname))
                 {
@@ -294,7 +294,7 @@ namespace ConvertHTForcingToRHESSys
                         file.WriteLine(vpd);
                 }
 
-                var Ldown_results = from p in results select p.vpd;
+                var Ldown_results = from p in results select p.Ldown;
                 out_fname = output_directory + "\\" + project_name + ".Ldown";
                 using (System.IO.StreamWriter file = new System.IO.StreamWriter(out_fname))
                 {
